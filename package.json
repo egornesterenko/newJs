@@ -1,0 +1,26 @@
+{
+  "name": "newjs",
+  "version": "1.0.0",
+  "description": "for labs",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index",
+    "lint" : "eslint .",
+    "test": "echo \"Error: no test specified\"",
+    "deploy" : "echo Current branch: $TRAVIS_BRANCH",
+    "build" : "echo builded"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egornesterenko/newJs.git"
+  },
+  "author": "Yehor Nesterenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egornesterenko/newJs/issues"
+  },
+  "homepage": "https://github.com/egornesterenko/newJs#readme",
+   "devDependencies": {
+    "eslint": "^5.14.1"
+  }     
+}
