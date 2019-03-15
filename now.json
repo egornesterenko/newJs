@@ -1,0 +1,6 @@
+{
+  "name": "test",
+  "version": 2,
+  "builds": [{ "src": "*.js", "use": "@now/node" }],
+  "alias": "nesterenko"
+}

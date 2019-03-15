@@ -20,7 +20,10 @@
     "url": "https://github.com/egornesterenko/newJs/issues"
   },
   "homepage": "https://github.com/egornesterenko/newJs#readme",
-   "devDependencies": {
+  "devDependencies": {
     "eslint": "^5.14.1"
-  }     
+  },
+  "dependencies": {
+    "now": "^14.1.0"
+  }
 }
