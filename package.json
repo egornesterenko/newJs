@@ -4,11 +4,11 @@
   "description": "for labs",
   "main": "index.js",
   "scripts": {
-    "start" : "node index",
-    "lint" : "eslint .",
-    "test": "echo \"Error: no test specified\"",
-    "deploy" : "echo Current branch: $TRAVIS_BRANCH",
-    "build" : "echo builded"
+    "start": "echo 1",
+    "lint": "eslint index.js",
+    "deploy": "echo 12314",
+    "build": "echo 3131",
+    "test": "echo 234f"
   },
   "repository": {
     "type": "git",
