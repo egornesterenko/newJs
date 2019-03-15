@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "zeit-chat",
   "version": 2,
   "builds": [{ "src": "*.js", "use": "@now/node" }],
   "alias": "nesterenko"
